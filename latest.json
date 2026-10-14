@@ -1,15 +1,15 @@
 {
-  "version": "0.1.25",
-  "notes": "The Update button now installs the new version for you\nYour game is now called Hooperly\nThe ball can return to its resting spot (Settings)\nA soft joystick shows where you pull the ball\nClearer digits and a calmer Play online row\nAll Access offer card, shown once a week\nLeaderboard and profile in the browser version too",
-  "pub_date": "2026-10-14T17:31:47.767Z",
+  "version": "0.1.26",
+  "notes": "Goals from phones now count, and no goal is lost if something goes wrong\nThe ball moves out of the way when a hoop comes too close\nThe leaderboard is up to date the moment you open it\nA soft joystick shows where you pull the ball\nClearer digits, and a calmer Play online row\nThe Fireball voice when the ball catches fire\nSettings keep their scroll position",
+  "pub_date": "2026-10-14T20:13:47.347Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYStSdU9MVnRCc3hLdm1FdVJrN1N2MmxRWHpVNDFjNWg1ZEY3Rk9jN1NnTHRHWFFFNFhJMTNLVDBtU292VHpKZnpveFhQdzA3aUdoenlKVnR1SzhkeWFsQi83UkZSVEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTk5MDc2CWZpbGU6SG9vcGVybHkuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4yNQpxVlFPZUlqN1B0dmNtVC9qdllxbXlXVGpSWWxkTzJVcTl2MkN0MU8zT054ZDNwNnFVZG1sdG5WYVNCTTNPR3ZYZlBHWENaZ0RPMEpjQlhrc3ZnZmxEZz09Cg==",
-      "url": "https://github.com/Minkenen/Hooperly/releases/download/v0.1.25/Hooperly_0.1.25_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYStSdU9MVnRCczN5SUowNzh4OW1HQ3RNZlJJOWtVbG5uVC9mOXZkNnJLM2FPUEQxd25va1NzbWwyTm1lVGdvVmZ1ZlpNTjFPT2V0ZmJpN0d2VmsvNThPRFIwSmxibGdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDA4Mjk4CWZpbGU6SG9vcGVybHkuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4yNgpvOWFtWHRwQlRLbzVUVHpPSlVXMW1OK0FJWlR6Nk13eGtRNGdJNy9DcElzMzBzbnRERzZxMXkwK2N2djB0L0lIbHNGT2lFMkd4ZE5aQytHeEVNd0pBZz09Cg==",
+      "url": "https://github.com/Minkenen/Hooperly/releases/download/v0.1.26/Hooperly_0.1.26_aarch64.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYStSdU9MVnRCc3pnT0RiSktDcThnelhndDVsRHlBbGx4dFFWVmVFdjRqeG1OWDFjTzBRYmVpUkdEdnVhalZxY3ljSTJwKzBTcU1VWm5aMURBRHFoOHpBNnBUbzdCY3c0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxOTk4ODQ1CWZpbGU6SG9vcGVybHlfMC4xLjI1X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMjUKb0M5NkQwaXBTVWZCQmFFcHpydktHUjc1K0NBODBhZHFsUUwvVUxVQzdzZXZqSjBKZHJ4OW5DUm9kSktGeU1UQzFoZjgvRy9JUVh1TWxkQUl1bGNrQXc9PQo=",
-      "url": "https://github.com/Minkenen/Hooperly/releases/download/v0.1.25/Hoops-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYStSdU9MVnRCc3dJNGh1bWFPbFg5TE1kN3h3YVJ4bmpQSkN0OHRQNGVZMGxaa1d1Y2tGQ2xtc3pCSERWZzByVVZWT2tjWVZXYThPNkVWWnl3TjBqN0FVWUUxcFZodFFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMDA4Nzk0CWZpbGU6SG9vcGVybHlfMC4xLjI2X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMjYKUU5hVUtIckdiRmdVRHBlUTVjVlBIdnVCUVRNNUVYd1RacmNYOW13ak94cVE4TjRSYUI3VEt6VTVXSEtwYzlldFlKSTE5RHJ3Y0JwbzBSTW1uUHpqQkE9PQo=",
+      "url": "https://github.com/Minkenen/Hooperly/releases/download/v0.1.26/Hoops-Windows-setup.exe"
     }
   }
 }
