@@ -1,15 +1,12 @@
 {
-  "version": "0.1.26",
+  "version": "0.1.27",
   "url": "https://minkenen.github.io/Hooperly/#download",
   "mac": "https://github.com/Minkenen/Hooperly/releases/latest/download/Hoops-macOS.dmg",
   "windows": "https://github.com/Minkenen/Hooperly/releases/latest/download/Hoops-Windows-setup.exe",
   "notes": [
-    "Goals from phones now count, and no goal is lost if something goes wrong",
-    "The ball moves out of the way when a hoop comes too close",
-    "The leaderboard is up to date the moment you open it",
-    "A soft joystick shows where you pull the ball",
-    "Clearer digits, and a calmer Play online row",
-    "The Fireball voice when the ball catches fire",
-    "Settings keep their scroll position"
+    "The hoop now appears at a clearly different height for every shot",
+    "Purchases and license activation now use Polar",
+    "License keys are tied to the email address used at checkout",
+    "All gameplay, leaderboard and multiplayer improvements from 0.1.26 are included"
   ]
 }
