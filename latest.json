@@ -1,15 +1,11 @@
 {
-  "version": "0.1.27",
-  "notes": "The hoop now appears at a clearly different height for every shot\nPurchases and license activation now use Polar\nLicense keys are tied to the email address used at checkout\nIncludes the latest multiplayer and leaderboard improvements",
-  "pub_date": "2026-10-16T15:34:55.150Z",
+  "version": "0.1.28",
+  "notes": "New pixel-art login confirmation screen\nThe hoop now appears at a clearly different height for every shot\nPurchases and license activation now use Polar",
+  "pub_date": "2026-10-17T12:20:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYStSdU9MVnRCczVjUjlVODFUNFNnMEVCN1hrRndhZXNFMkNWN3dLeERaeHA4WGx1ZWI5N0E2VVlGUE5IazZxQ3llejU4akZNTlVxMTFPYWEyTDFENWt0SWVrUVNtTEFvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTY0Njg4CWZpbGU6SG9vcGVybHkuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4yNwpuN2hTQUNSWEh1NTUrTjN0TWFCUWhxcUxaeXc2dXhUd2RmbGxFVDBkdldsM3Exdk9RS0kyL3hPbjI4UWVxVkdOL3o5QldkUWxMSkgzQkx3WExRWC9Bdz09Cg==",
-      "url": "https://github.com/Minkenen/Hooperly/releases/download/v0.1.27/Hooperly_0.1.27_aarch64.app.tar.gz"
-    },
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYStSdU9MVnRCc3pZSVNWdVZRRzhpd1Z4Tzk4UDQ5R2orWUcyVlJoUkZnOUgyUXpNbllYWHBBajVWWjNZUytaelloYmdrUVFXajd3SmNmdm8vMjZFMHpES2Z1b1h1ZWc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMTM5NDQzCWZpbGU6SG9vcGVybHlfMC4xLjI3X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMjcKSlg2dXR2ME1QT29hTUdTRzBHN084NVYzMHdlQmdhNFE0dWVMbmcreFdMbUJScVhJWHk2S0tPMHM1Z1BzOVJRZ3pxRkJ0ZGlMa045d0lvQjdKb1JaQ2c9PQo=",
-      "url": "https://github.com/Minkenen/Hooperly/releases/download/v0.1.27/Hoops-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYStSdU9MVnRCcytad2pMcHRGT3B3TUlsYkJremJtWWZRdWp3amVmY1k2NlBtbWdJcm1HTzMzeTNzZXQ3YU56MnBGN1BjTzRSVlduRkhSdDRsSnBuK2RhR1JzOHEzV0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjM5MzY2CWZpbGU6SG9vcGVybHkuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4yOAp0bGJMSUtJSW1oaDNZcnBzZXNRamttMGhXU2N3czNXeWsvT0FVSFJpcUdBUkdiL2JnRUxXQnpMOStvVHRWVXM0YnlvMlE0MmlKQTJ4VVpyczJCanlCZz09Cg==",
+      "url": "https://github.com/Minkenen/Hooperly/releases/download/v0.1.28/Hooperly.app.tar.gz"
     }
   }
 }
