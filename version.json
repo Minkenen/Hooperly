@@ -1,12 +1,11 @@
 {
-  "version": "0.1.27",
+  "version": "0.1.28",
   "url": "https://minkenen.github.io/Hooperly/#download",
-  "mac": "https://github.com/Minkenen/Hooperly/releases/latest/download/Hoops-macOS.dmg",
+  "mac": "https://github.com/Minkenen/Hooperly/releases/latest/download/Hooperly_0.1.28_aarch64.dmg",
   "windows": "https://github.com/Minkenen/Hooperly/releases/latest/download/Hoops-Windows-setup.exe",
   "notes": [
+    "New pixel-art login confirmation screen",
     "The hoop now appears at a clearly different height for every shot",
-    "Purchases and license activation now use Polar",
-    "License keys are tied to the email address used at checkout",
-    "All gameplay, leaderboard and multiplayer improvements from 0.1.26 are included"
+    "Purchases and license activation now use Polar"
   ]
 }
