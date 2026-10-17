@@ -1,15 +1,15 @@
 {
-  "version": "0.1.28",
-  "notes": "New pixel-art login confirmation screen\nThe hoop now appears at a clearly different height for every shot\nPurchases and license activation now use Polar",
-  "pub_date": "2026-10-17T12:20:00Z",
+  "version": "0.1.29",
+  "notes": "Update confirmation window added before installing updates\nNew login confirmation screen with a clearer return-to-game message\nMenu score now stays synchronized with the in-game score",
+  "pub_date": "2026-10-17T14:00:00Z",
   "platforms": {
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYStSdU9MVnRCcytad2pMcHRGT3B3TUlsYkJremJtWWZRdWp3amVmY1k2NlBtbWdJcm1HTzMzeTNzZXQ3YU56MnBGN1BjTzRSVlduRkhSdDRsSnBuK2RhR1JzOHEzV0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjM5MzY2CWZpbGU6SG9vcGVybHkuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4yOAp0bGJMSUtJSW1oaDNZcnBzZXNRamttMGhXU2N3czNXeWsvT0FVSFJpcUdBUkdiL2JnRUxXQnpMOStvVHRWVXM0YnlvMlE0MmlKQTJ4VVpyczJCanlCZz09Cg==",
-      "url": "https://github.com/Minkenen/Hooperly/releases/download/v0.1.28/Hooperly.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYStSdU9MVnRCcytuYmdPZWdLanFnYnVEVTNPY3dxUXUvRk1NN0tXb3VheE1nNXZrcGhqZjlKV0hxUXlBY25wczVYM0pJOUIxSHJmdld2VnBSYWlxY3hoMWdDS05XRGc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjQzODU2CWZpbGU6SG9vcGVybHkuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4yOQpQbUdiN2w1ZFlTUkxCQTh5TlhSblVUZWVYWWNOdXEyeXQ1NXllUy9xVTRtVEFyN0NyU0JrczQ4eHJJd0w4UVNzKzRxRmdYL2N1M3BsOUtnaURqUExDdz09Cg==",
+      "url": "https://github.com/Minkenen/Hooperly/releases/download/v0.1.29/Hooperly.app.tar.gz"
     },
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYStSdU9MVnRCc3dVMUxwNUd4VnN3NUJjNndKZUFVVVlpV3UrNVpzbjk4TGJFNVhPNDZ1R2VDWE5tVnJuVTY2eDEwQUxmazMxNndUOWhrby9BRUpCcHNtOEdyQlFIQVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjQwMDEyCWZpbGU6SG9vcGVybHlfMC4xLjI4X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMjgKR3Nkb3piOHFlblNlSWRhdERCd2k3WE8xN1Vqckg2QnNFc0gzTWJjN0hoS1FvbWJKWk9hbTF3NmtSTlZWc3J4WkVJaEdRazU4TlNRWGlWVmxrZDlLRHc9PQo=",
-      "url": "https://github.com/Minkenen/Hooperly/releases/download/v0.1.28/Hoops-Windows-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYStSdU9MVnRCc3hDeitQQUMvamRmc2VlcEpodlk1UTBKN2JWd3JMLzROSnc3SHc3aGxJa0djdndoNWd6RTZJQm8rL2tzWFFKNHgrUWxFMjFTV0s3M3NrNHZFN2Vrc3dnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjQ0MTk2CWZpbGU6SG9vcGVybHlfMC4xLjI5X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMjkKeWRWS25UQmJqZ3p2UlB5RE1EZTN1bmlNdi9oRTRqRDJXU0lFdlJnSkl4NHVTcjAwZTRPS2l0NEl3cWFSSVlmZTJRcHlBanZFWk0zR3RQV1p5c2tBQkE9PQo=",
+      "url": "https://github.com/Minkenen/Hooperly/releases/download/v0.1.29/Hoops-Windows-setup.exe"
     }
   }
 }
