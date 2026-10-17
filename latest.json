@@ -6,6 +6,10 @@
     "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYStSdU9MVnRCcytad2pMcHRGT3B3TUlsYkJremJtWWZRdWp3amVmY1k2NlBtbWdJcm1HTzMzeTNzZXQ3YU56MnBGN1BjTzRSVlduRkhSdDRsSnBuK2RhR1JzOHEzV0FFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjM5MzY2CWZpbGU6SG9vcGVybHkuYXBwLnRhci5negl2ZXJzaW9uOjAuMS4yOAp0bGJMSUtJSW1oaDNZcnBzZXNRamttMGhXU2N3czNXeWsvT0FVSFJpcUdBUkdiL2JnRUxXQnpMOStvVHRWVXM0YnlvMlE0MmlKQTJ4VVpyczJCanlCZz09Cg==",
       "url": "https://github.com/Minkenen/Hooperly/releases/download/v0.1.28/Hooperly.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYStSdU9MVnRCc3dVMUxwNUd4VnN3NUJjNndKZUFVVVlpV3UrNVpzbjk4TGJFNVhPNDZ1R2VDWE5tVnJuVTY2eDEwQUxmazMxNndUOWhrby9BRUpCcHNtOEdyQlFIQVE4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkyMjQwMDEyCWZpbGU6SG9vcGVybHlfMC4xLjI4X3g2NC1zZXR1cC5leGUJdmVyc2lvbjowLjEuMjgKR3Nkb3piOHFlblNlSWRhdERCd2k3WE8xN1Vqckg2QnNFc0gzTWJjN0hoS1FvbWJKWk9hbTF3NmtSTlZWc3J4WkVJaEdRazU4TlNRWGlWVmxrZDlLRHc9PQo=",
+      "url": "https://github.com/Minkenen/Hooperly/releases/download/v0.1.28/Hoops-Windows-setup.exe"
     }
   }
 }
